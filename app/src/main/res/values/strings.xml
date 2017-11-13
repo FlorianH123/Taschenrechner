@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Taschenrechner</string>
+
+    <string name="sieben_button">7</string>
+    <string name="acht_button">8</string>
+    <string name="neun_button">9</string>
+    <string name="division_button">/</string>
+    <string name="vier_button">4</string>
+    <string name="fuenf_button">5</string>
+    <string name="sechs_button">6</string>
+    <string name="multiplikatin_button">*</string>
+    <string name="eins_button">1</string>
+    <string name="zwei_button">2</string>
+    <string name="drei_button">3</string>
+    <string name="minus_button">-</string>
+    <string name="punkt_button">.</string>
+    <string name="null_button">0</string>
+    <string name="gleich_button">=</string>
+    <string name="plus_button">+</string>
+</resources>
