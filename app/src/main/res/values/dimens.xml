@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="primary_button_height_dp">60dp</dimen>
+    <dimen name="secondary_button_height_dp">40dp</dimen>
+
+    <dimen name="primary_button_height_dp_land">30dp</dimen>
+    <dimen name="secondary_button_height_dp_land">10dp</dimen>
+
+    <dimen name="primary_button_height_xlarge_port_dp">110dp</dimen>
+    <dimen name="secondary_button_height_xlarge_port_dp">90dp</dimen>
+
+    <dimen name="primary_button_height_xlarge_land_dp">70dp</dimen>
+    <dimen name="secondary_button_height_xlarge_land_dp">60dp</dimen>
+
+    <dimen name="primary_button_text_size_default_port_sp">30sp</dimen>
+    <dimen name="secondary_button_text_size_default_port_sp">19sp</dimen>
+
+    <dimen name="primary_button_text_size_default_land_sp">25sp</dimen>
+    <dimen name="secondary_button_text_size_default_land_sp">18sp</dimen>
+
+    <dimen name="text_size_xlarge_sp">25sp</dimen>
+
+    <dimen name="display_text_size_sp">36sp</dimen>
+    <dimen name="display_text_size_xlarge_sp">70sp</dimen>
+</resources>

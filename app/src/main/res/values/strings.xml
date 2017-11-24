@@ -1,20 +1,39 @@
 <resources>
     <string name="app_name">Taschenrechner</string>
 
-    <string name="sieben_button">7</string>
-    <string name="acht_button">8</string>
-    <string name="neun_button">9</string>
-    <string name="division_button">/</string>
-    <string name="vier_button">4</string>
-    <string name="fuenf_button">5</string>
-    <string name="sechs_button">6</string>
-    <string name="multiplikatin_button">*</string>
-    <string name="eins_button">1</string>
-    <string name="zwei_button">2</string>
-    <string name="drei_button">3</string>
-    <string name="minus_button">-</string>
-    <string name="punkt_button">.</string>
-    <string name="null_button">0</string>
-    <string name="gleich_button">=</string>
-    <string name="plus_button">+</string>
+    <string name="clearOneChar">\u232B</string>
+    <string name="clearAll">C</string>
+
+    <string name="default_display_value">0</string>
+
+    <string name="button_more_operations">Operations</string>
+    <string name="button_seven">7</string>
+    <string name="button_eight">8</string>
+    <string name="button_nine">9</string>
+    <string name="button_division">/</string>
+    <string name="button_four">4</string>
+    <string name="button_five">5</string>
+    <string name="button_six">6</string>
+    <string name="button_multiplication">*</string>
+    <string name="button_one">1</string>
+    <string name="button_two">2</string>
+    <string name="button_three">3</string>
+    <string name="button_minus">-</string>
+    <string name="button_point">.</string>
+    <string name="button_zero">0</string>
+    <string name="button_equals">=</string>
+    <string name="button_plus">+</string>
+    <string name="button_opening_bracket">(</string>
+    <string name="button_closing_bracket">)</string>
+    <string name="button_sinus">Sinus</string>
+    <string name="button_cosinus">Cosinus</string>
+    <string name="button_tangens">Tangens</string>
+    <string name="button_square_root">Wurzel</string>
+
+    <string name="menu_item_sinus">Sinus</string>
+    <string name="menu_item_cosinus">Cosinus</string>
+    <string name="menu_item_tangens">Tangens</string>
+    <string name="menu_item_square_root">Wurzel</string>
+
+    <string name="expression_error">Fehlerhafter Ausdruck</string>
 </resources>
